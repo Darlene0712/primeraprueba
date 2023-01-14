@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">primera prueba</string>
+    <string name="bienvenida">Bienvenido a Delivery\'s Chincha!!</string>
+    <string name="ingrese_USUARIO">Ingrese Usuario</string>
+    <string name="anadir">Añadir</string>
+    <string name="ver">Ver</string>
+    <string name="eleminar">Eleminar</string>
+    <string name="ingrese_email">Ingrese Email</string>
+    <string name="actualizar">Actualizar</string>
+</resources>
